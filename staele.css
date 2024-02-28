@@ -1,0 +1,164 @@
+.img-3 {
+  border-radius: 17px;
+}
+
+.text-1 {
+  color: #000000;
+  font-family: Nuckle;
+  font-size: 28px;
+  font-weight: 591;
+  line-height: 34px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+
+.sektione-1__box-1 {
+  display: flex;
+}
+
+.sektione-1__box-1__carte-1 {
+  width: 135.89px;
+  height: 200px;
+  top: 650px;
+  left: 187px;
+  padding: 9px, 0px, 9px, 0px;
+  border-radius: 10px;
+  gap: 3px;
+  background-color: #ffffff;
+  margin: 20px 0px 0px 0px;
+}
+
+.text-2 {
+  font-family: Nuckle;
+  font-size: 16px;
+  font-weight: 539;
+  line-height: 19px;
+  letter-spacing: 0.01em;
+  text-align: left;
+  margin: 3px 20px 0px 20px;
+}
+
+.sektione-1__box-1__carte-2 {
+  width: 135.89px;
+  height: 200px;
+  top: 650px;
+  left: 187px;
+  padding: 9px, 0px, 9px, 0px;
+  border-radius: 10px;
+  gap: 3px;
+  background-color: #ffffff;
+  margin: 20px 0px 0px 20px;
+}
+
+.img-1 {
+  margin: 9px 0px 0px 0px;
+}
+
+.text-3 {
+  font-family: Nuckle;
+  font-size: 14px;
+  font-weight: 539;
+  line-height: 19px;
+  letter-spacing: 0.01em;
+  text-align: center;
+  margin: 3px 0px 0px 0px;
+}
+
+.text-4 {
+  font-family: Nuckle;
+  font-size: 16px;
+  font-weight: 539;
+  line-height: 19px;
+  letter-spacing: 0.01em;
+  text-align: center;
+  margin: 3px 0px 0px 00px;
+}
+
+.sektione-1__carte-3 {
+  width: 1, 229px;
+  height: 50px;
+  border-radius: 10px;
+  background-color: #ffffff;
+  margin: 20px 0px 0px 0px;
+}
+
+.text-5 {
+  position: absolute;
+  left: 938px;
+  z-index: 1;
+  font-family: Nuckle;
+  font-size: 18px;
+  font-weight: 591;
+  line-height: 22px;
+  text-align: center;
+  margin: 14px 0px 0px 0px;
+}
+
+.sektione-2 {
+  width: 1230px;
+  height: 942px;
+  top: 960px;
+  left: 185px;
+  border: 2px solid #00000000;
+  margin: 40px 0px 0px 0px;
+}
+
+.text-6 {
+  font-family: Nuckle;
+  font-size: 28px;
+  font-weight: 591;
+  line-height: 34px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+
+.sektione-2__box-1 {
+  display: flex;
+}
+
+.sektione-2__box-1__carte-1 {
+  width: 230px;
+  height: 390px;
+  top: 1014px;
+  left: 185px;
+  padding: 10px;
+  border-radius: 10px;
+  gap: 10px;
+  background-color: #ffffff;
+  margin: 20px 0px 0px 0px;
+}
+
+.sektione-2__box-1__carte-2 {
+  width: 230px;
+  height: 390px;
+  top: 1014px;
+  left: 185px;
+  padding: 10px;
+  border-radius: 10px;
+  gap: 10px;
+  background-color: #ffffff;
+  margin: 20px 0px 0px 20px;
+}
+
+.sektione-2__carte-10 {
+  width: 1, 229px;
+  height: 50px;
+  border-radius: 10px;
+  background-color: #ffffff;
+  margin: 37px 0px 0px 0px;
+}
+
+.img-2 {
+  margin: 10px 0px 0px 35px;
+}
+
+.text-7 {
+  margin: 0px 0px 0px 20px;
+  color: #0d63f3;
+  font-family: Nuckle;
+  font-size: 18px;
+  font-weight: 591;
+  line-height: 22px;
+  letter-spacing: 0em;
+  text-align: left;
+}
